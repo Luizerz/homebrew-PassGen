@@ -11,6 +11,6 @@ class Passgen < Formula
   # depends_on "cmake" => :build
 
   def install
-    bin.install "PassGen"
+    bin.install "passgen"
   end
 end
